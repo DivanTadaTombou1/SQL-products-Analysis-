@@ -7,7 +7,7 @@
 - Analyzes monthly sales trends by region.
 - Determines customer segments based on purchase frequency and order value.
 
-```
+```sql
 
 WITH CustomerSales AS (
     SELECT
