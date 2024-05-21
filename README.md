@@ -4,7 +4,7 @@
 
 - Calculates total sales, average order value, and total orders per customer.
 - Identifies the top 10 products by sales and average rating.
-- Analyzes monthly sales trends by region.
+- Analyses monthly sales trends by region.
 - Determines customer segments based on purchase frequency and order value.
 
 ```sql
